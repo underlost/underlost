@@ -1,16 +1,17 @@
-### Hi there 👋
+!(Hi there)[https://raw.githubusercontent.com/underlost/underlost.net/master/static/images/background.jpg]
 
-<!--
-**underlost/underlost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there. I'm Tyler, a Python web developer and narrative designer, living in Seattle, Washington and working as a senior developer at Wildern. I'm probably not an Undertale game. 👾
 
-Here are some ideas to get you started:
+I also specialize in React, content management systems like WordPress and Ghost, and various other technologies. Currently a senior developer at an interactive design agency in Seattle. I also offer various consulting services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned
+
+* First issue of my (newsletter)[https://underlost.net/writing/newsletter-zero/]
+* my website - (underlost.net)[https://underlost.net]
+
+
+## Get in Touch
+
+* Follow me on (twitter)[https://twitter.com/underlost].
+* Follow me on (Instagram)[https://instagram.com/underlost].
+* Connect with me on (LinkedIn)[www.linkedin.com/in/underlost].
