@@ -6,7 +6,7 @@ I also specialize in React, content management systems like WordPress and Ghost,
 
 ## 📌 Pinned
 
-* First issue of my [newsletter](https://underlost.net/writing/newsletter-zero/])
+* First issue of my [newsletter](https://underlost.net/writing/newsletter-zero/)
 * my website - [underlost.net](https://underlost.net)
 
 
@@ -14,4 +14,4 @@ I also specialize in React, content management systems like WordPress and Ghost,
 
 * Follow me on [twitter](https://twitter.com/underlost).
 * Follow me on [Instagram](https://instagram.com/underlost).
-* Connect with me on [LinkedIn](www.linkedin.com/in/underlost)
+* Connect with me on [LinkedIn](www.linkedin.com/in/underlost).
