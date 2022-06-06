@@ -6,8 +6,9 @@ I also specialize in React, content management systems like WordPress and Ghost,
 
 ## 📌 Pinned
 
-* First issue of my [newsletter](https://underlost.net/writing/newsletter-zero/)
 * my website - [underlost.net](https://underlost.net)
+* Read the first issue of my [newsletter](https://underlost.net/writing/newsletter-zero/)
+* I started a new project, [Gatsby Just Docs](https://underlost.net/writing/gatsby-just-docs/)!
 
 
 ## Get in Touch
