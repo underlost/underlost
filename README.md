@@ -7,6 +7,7 @@ I also specialize in React, content management systems like WordPress and Ghost,
 ## 📌 Pinned
 
 * My website - [underlost.net](https://underlost.net)
+* My Freelancing services - [underlost.xyz](https://www.underlost.xyz)
 * Sign up for my sometimes sporadic [newsletter](https://underlost.net/newsletter/)
 
 ## Projects
@@ -16,7 +17,7 @@ Things I'm currenly working on in 2023:
 * [Gatsby Just Docs](https://underlost.net/writing/gatsby-just-docs/) - A powerful MDX-based authoring framework for building great documentation.
 * [Seattle](https://github.com/underlost/Seattle) - A Headless CMS WordPress theme.
 * [Tyler.camera](https://tyler.camera) - A ReactJS based photography site
-* Boredable. - A new way to post things. Coming in 2023.
+* [Boredable](https://www.boredable.com). - A new way to post things.
 
 ## Get in Touch
 
