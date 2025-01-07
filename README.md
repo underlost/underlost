@@ -2,7 +2,7 @@
 
 **Hi there. I'm Tyler, a Python web developer, UX designer, and marketing consultant, living in Seattle, Washington. I'm probably not an Undertale game.**
 
-I specialize in React, content management systems like WordPress and Ghost, and various other technologies. Former lead developer at an interactive design agency in Seattle, now providing various [consulting and freelancing services](https://www.underlost.net/consulting/.
+I specialize in React, content management systems like WordPress and Ghost, and various other technologies. Former lead developer at an interactive design agency in Seattle, now providing various [consulting and freelancing services](https://www.underlost.net/consulting/).
 
 ## 📌 Pinned
 
